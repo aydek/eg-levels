@@ -104,7 +104,7 @@ export default {
     name: 'Varzybos',
     data() {
         return {
-            name: { title: 'ŽVEJYBOS LYGIAI', subtext: 'Kelkis lygį ir gauk prizus!' },
+            name: { title: 'UOGAVIMO LYGIAI', subtext: 'Kelkis lygį ir gauk prizus!' },
             details: [
                 {
                     text: '• Radus mėlynių, spanguolių arba žemuogių',
@@ -191,10 +191,6 @@ export default {
 };
 </script>
 <style scoped>
-.custom-scrollbar {
-    transform: rotate(180deg);
-}
-
 ::-webkit-scrollbar-track {
     background-color: transparent;
 }
