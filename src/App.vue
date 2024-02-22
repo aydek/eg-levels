@@ -121,8 +121,8 @@ export default {
             ],
 
             levels: [],
-            PlayerActivityLevel: 1,
-            PlayerActivityXP: 144,
+            PlayerActivityLevel: 99,
+            PlayerActivityXP: 9920,
             TakenRewards: [],
         };
     },
